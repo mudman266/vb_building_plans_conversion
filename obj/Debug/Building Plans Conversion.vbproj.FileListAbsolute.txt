@@ -1,0 +1,12 @@
+C:\School\CSC-139\Chapter5\Building Plans Conversion\bin\Debug\Building Plans Conversion.exe.config
+C:\School\CSC-139\Chapter5\Building Plans Conversion\bin\Debug\Building Plans Conversion.exe
+C:\School\CSC-139\Chapter5\Building Plans Conversion\bin\Debug\Building Plans Conversion.pdb
+C:\School\CSC-139\Chapter5\Building Plans Conversion\bin\Debug\Building Plans Conversion.xml
+C:\School\CSC-139\Chapter5\Building Plans Conversion\obj\Debug\Building Plans Conversion.vbprojAssemblyReference.cache
+C:\School\CSC-139\Chapter5\Building Plans Conversion\obj\Debug\Building_Plans_Conversion.frmMain.resources
+C:\School\CSC-139\Chapter5\Building Plans Conversion\obj\Debug\Building_Plans_Conversion.Resources.resources
+C:\School\CSC-139\Chapter5\Building Plans Conversion\obj\Debug\Building Plans Conversion.vbproj.GenerateResource.cache
+C:\School\CSC-139\Chapter5\Building Plans Conversion\obj\Debug\Building Plans Conversion.vbproj.CoreCompileInputs.cache
+C:\School\CSC-139\Chapter5\Building Plans Conversion\obj\Debug\Building Plans Conversion.exe
+C:\School\CSC-139\Chapter5\Building Plans Conversion\obj\Debug\Building Plans Conversion.xml
+C:\School\CSC-139\Chapter5\Building Plans Conversion\obj\Debug\Building Plans Conversion.pdb
